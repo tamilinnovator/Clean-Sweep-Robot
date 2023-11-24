@@ -1,2 +1,2 @@
 # Clean-Sweep-Robot
-![Alt text](https://ibb.co/GvScJHg "Output")
+![Alt text](https://ibb.co/GvScJHg)

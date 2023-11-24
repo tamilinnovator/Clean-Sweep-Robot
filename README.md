@@ -8,4 +8,5 @@ Driver Module<br>
 Ultrosonic Sensor<br>
 Mop Motor<br>
 Driver Motor<br>
+HC-05 Module<br>
 Jumper Wires
